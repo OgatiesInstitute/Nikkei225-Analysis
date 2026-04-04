@@ -1,13 +1,16 @@
-# =================================================================
-# Chapter 5: TDA Analysis - The Steel Framework vs. The Bubble Ghost
-# =================================================================
-
 # 1. Environment Setup
-# NOTE: If you get a "ValueError" or "Restart Runtime" message after installation, 
-# please go to [Runtime] -> [Restart Session] and run this cell again.
-!pip install giotto-tda --quiet
+try:
+    import gtda
+except ImportError:
+    !pip install giotto-tda --quiet
+    print("✨ Libraries installed. PLEASE RESTART RUNTIME to apply changes.")
+    # ここで動作を止めることで、読者に再起動を促す
+    import sys
+    sys.exit() 
 
 import os
+import numpy as np
+# ...以下続く
 import numpy as np
 import pandas as pd
 from gtda.time_series import TakensEmbedding
