@@ -3,7 +3,10 @@
 # =================================================================
 
 # 1. Environment Setup
-!pip install giotto-tda
+# NOTE: If you get a "ValueError" or "Restart Runtime" message after installation, 
+# please go to [Runtime] -> [Restart Session] and run this cell again.
+!pip install giotto-tda --quiet
+
 import os
 import numpy as np
 import pandas as pd
