@@ -4,7 +4,7 @@ try:
 except ImportError:
     !pip install giotto-tda --quiet
     print("✨ Libraries installed. PLEASE RESTART RUNTIME to apply changes.")
-    # ここで動作を止めることで、読者に再起動を促す
+    
     import sys
     sys.exit() 
 
