@@ -35,15 +35,15 @@ Output: A Dendrogram showing "Topological Collusion" and clustered investment ri
 ```markdown
 ---
 
-
+```
 ## 🛠 Prerequisites
-
+```
 ```
 pip install giotto-tda yfinance pandas numpy matplotlib
 ```
-
+```
 > **Note:** If running in Google Colab, please restart the runtime after the first installation to avoid version conflicts.
-
+```
 ---
 ```
 ## 📜 Quote from the Book
@@ -51,3 +51,4 @@ pip install giotto-tda yfinance pandas numpy matplotlib
 > "True freedom lives inside mathematical structure."
 >
 > — *MBA 2020 Graduate / 2026 Market Observer*
+```
