@@ -32,10 +32,10 @@ Run `dendrogram_analysis.py` to unveil the hidden bloodlines of the market.
 Output: A Dendrogram showing "Topological Collusion" and clustered investment risks.
 ---
 
-```markdown
+
 ---
 
-```
+
 ## 🛠 Prerequisites
 ```
 ```
