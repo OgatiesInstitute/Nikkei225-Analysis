@@ -10,8 +10,6 @@ except ImportError:
 
 import os
 import numpy as np
-# ...以下続く
-import numpy as np
 import pandas as pd
 from gtda.time_series import TakensEmbedding
 from gtda.homology import VietorisRipsPersistence
