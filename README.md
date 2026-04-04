@@ -35,10 +35,12 @@ Output: A Dendrogram showing "Topological Collusion" and clustered investment ri
 ```markdown
 ---
 
+
 ## 🛠 Prerequisites
 
-```bash
+
 pip install giotto-tda yfinance pandas numpy matplotlib
+
 
 > **Note:** If running in Google Colab, please restart the runtime after the first installation to avoid version conflicts.
 
