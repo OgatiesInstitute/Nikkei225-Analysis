@@ -29,16 +29,16 @@ Run `dendrogram_analysis.py` to unveil the hidden bloodlines of the market.
 * **2026 (Modern):** A high-persistence Green ($H_1$) structure supporting the ¥53,123 reality.
 * **1989 (Historical):** A cluster of Purple ($H_2$) voids—a hollow shell that lacked structural integrity.
 
+Output: A Dendrogram showing "Topological Collusion" and clustered investment risks.
 ---
 
 ```markdown
+---
 
 ## 🛠 Prerequisites
 
-
-```
+```bash
 pip install giotto-tda yfinance pandas numpy matplotlib
-```
 
 > **Note:** If running in Google Colab, please restart the runtime after the first installation to avoid version conflicts.
 
