@@ -1,3 +1,8 @@
+
+# =================================================================
+# Chapter 5: TDA Analysis - The Steel Framework vs. The Bubble Ghost
+# =================================================================
+
 # 1. Environment Setup
 try:
     import gtda
