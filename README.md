@@ -32,7 +32,9 @@ Run `dendrogram_analysis.py` to unveil the hidden bloodlines of the market.
 ---
 
 ```markdown
+
 ##🛠 Prerequisites
+
 
 ```
 pip install giotto-tda yfinance pandas numpy matplotlib
