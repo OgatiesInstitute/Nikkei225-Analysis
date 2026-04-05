@@ -24,6 +24,18 @@ Run `dendrogram_analysis.py` to unveil the hidden bloodlines of the market.
 - **2026 (Modern):** A high-persistence Green ($H_1$) structure supporting the ¥53,123 reality.
 - **1989 (Historical):** A cluster of Purple ($H_2$) voids—a hollow shell that lacked structural integrity.
 
+## 🏛 Chapter 7: Visualizing Structural Integrity (Dendrogram Analysis)
+
+To substantiate the topological claims, we provide a comparative "Family Tree" of market assets. This visual evidence highlights why the 2026 market is fundamentally different from the 1989 bubble.
+
+
+
+🔍 Geometric Insights
+
+1989 (The Convergence Crisis): All stocks merge almost instantly at a very low threshold (Distance < 0.2). This "flat" architecture signifies a monolithic market where individual assets lack autonomy—a classic sign of a hollow bubble.
+
+2026 (The Steel Framework): Assets maintain distinct clusters with significant vertical separation (Distance reaching 5.0+). This hierarchical "breathing room" confirms that the valuation is supported by independent, resilient sectoral pillars.
+
 ## 🛠 Prerequisites
 ```bash
 pip install giotto-tda yfinance pandas numpy matplotlib
