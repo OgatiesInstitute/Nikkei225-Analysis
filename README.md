@@ -28,7 +28,15 @@ Run `dendrogram_analysis.py` to unveil the hidden bloodlines of the market.
 
 To substantiate the topological claims, we provide a comparative "Family Tree" of market assets. This visual evidence highlights why the 2026 market is fundamentally different from the 1989 bubble.
 
+## 🚀 Live Demo
+You can explore the interactive 3D visualization here:
+[https://ogatiesinstitute.github.io/nikkei-tda/](https://ogatiesinstitute.github.io/nikkei-tda/)
 
+---
+### 💡 Concept
+This visualizer analyzes the **Topological Data Analysis (TDA)** of the Nikkei 225, 
+comparing the "Bubble Ghost" of 1989 with the "Steel Framework" of 2026.
+Designed with a Bloomberg-inspired UI and an "incandescent" aesthetic.
 
 🔍 Geometric Insights
 
