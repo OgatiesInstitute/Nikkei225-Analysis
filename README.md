@@ -51,5 +51,3 @@ pip install giotto-tda yfinance pandas numpy matplotlib
 
 > [!NOTE]
 > If running in Google Colab, please restart the runtime after the first installation to avoid version conflicts.
-
-
